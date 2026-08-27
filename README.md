@@ -20,7 +20,7 @@
 
 I'm **Gusdenatha**, a student at **Politeknik Negeri Bali**.
 
-I'm passionate about **Backend & Mobile Development**, focused on building robust, scalable, and secure systems and apps. On the backend I work with **Laravel, PHP, NestJS, and Filament**; on the frontend I build with **React, TanStack, Mantine, and TailwindCSS**; and for mobile I use **Flutter**.
+I'm passionate about **Backend & Mobile Development**, focused on building robust, scalable, and secure systems and apps. On the backend I work with **Laravel, PHP, ExpressJS, and Filament**; on the frontend I build with **React, TanStack, Mantine, and TailwindCSS**; and for mobile I use **Flutter**.
 
 <br/>
 
@@ -32,7 +32,7 @@ I'm passionate about **Backend & Mobile Development**, focused on building robus
 
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![ExpressJS](https://img.shields.io/badge/ExpressJS-E0234E?style=for-the-badge&logo=expressjs&logoColor=white)
 ![Filament](https://img.shields.io/badge/FilamentPHP-1E293B?style=for-the-badge&logo=php&logoColor=white)
 
 **Frontend & Tools**
