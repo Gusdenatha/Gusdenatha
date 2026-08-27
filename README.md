@@ -1,4 +1,3 @@
-<!-- 🌟 README.md — Gusdenatha -->
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:20B2AA,100:0A66C2&height=220&section=header&text=Hi%20I'm%20Gusdenatha%20%F0%9F%91%8B&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Laravel%20%7C%20React%20%7C%20Flutter%20Developer&descAlignY=58&descSize=18" width="100%"/>
@@ -62,26 +61,3 @@ I'm passionate about **Backend & Mobile Development**, focused on building robus
 | Institution | Period | GPA |
 |:--|:--|:--|
 | Politeknik Negeri Bali | Aug 2023 – Now | **3.77 / 4.00** |
-
-<br/>
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=fakhrirrahman&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" height="165" alt="GitHub Stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=fakhrirrahman&theme=tokyonight&hide_border=true&border_radius=12" height="165" alt="GitHub Streak" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=fakhrirrahman&theme=tokyo-night&hide_border=true&radius=12" width="95%" alt="Activity Graph" />
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=fakhrirrahman&theme=onedark&no-frame=true&margin-w=15&margin-h=15&column=5" alt="GitHub Trophies" />
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:20B2AA&height=100&section=footer" width="100%"/>
-
-</div>
