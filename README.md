@@ -6,9 +6,6 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=fakhrirrahman&label=Profile%20Views&color=20B2AA&style=for-the-badge)
-![GitHub followers](https://img.shields.io/github/followers/fakhrirrahman?label=Followers&style=for-the-badge&color=0A66C2)
-
 </div>
 
 <br/>
