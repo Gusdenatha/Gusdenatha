@@ -21,7 +21,7 @@ Hello! I am Gusdenatha, a Software Engineering Technology student at Politeknik 
 
 Currently, I am intensely focused on mastering Golang to build high-performance, lightweight backend services, while maintaining versatility across modern frontend and mobile ecosystems.
 
-🔭 Primary Focus: Golang (REST APIs, Microservices & Scalable Backend Architecture).
+🔭 Primary Focus: Golang (REST APIs & Scalable Backend Architecture).
 
 ⚡ Web Ecosystem: Laravel, PHP, FilamentPHP, React, TanStack, Mantine, & TailwindCSS.
 
